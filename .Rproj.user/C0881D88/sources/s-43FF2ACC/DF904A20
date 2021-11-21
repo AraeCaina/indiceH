@@ -1,0 +1,24 @@
+{
+    "id": "DF904A20",
+    "path": "~/R/indiceH/R/mod_seleciona_autores.R",
+    "project_path": "R/mod_seleciona_autores.R",
+    "type": "r_source",
+    "hash": "128121794",
+    "contents": "",
+    "dirty": false,
+    "created": 1637508621310.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "37,47",
+        "scrollLine": "22"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1637522486,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1637522486756,
+    "read_only": false,
+    "read_only_alternatives": []
+}

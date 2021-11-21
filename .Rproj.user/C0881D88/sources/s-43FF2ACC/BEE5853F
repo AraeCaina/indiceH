@@ -1,0 +1,24 @@
+{
+    "id": "BEE5853F",
+    "path": "~/R/indiceH/dev/03_deploy.R",
+    "project_path": "dev/03_deploy.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1637519977359.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "cursorPosition": "31,0",
+        "scrollLine": "3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1637508492,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1637508492,
+    "read_only": false,
+    "read_only_alternatives": []
+}
