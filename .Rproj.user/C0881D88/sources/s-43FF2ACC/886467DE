@@ -3,22 +3,22 @@
     "path": "~/R/indiceH/dev/02_dev.R",
     "project_path": "dev/02_dev.R",
     "type": "r_source",
-    "hash": "171521015",
+    "hash": "717791314",
     "contents": "",
     "dirty": false,
     "created": 1637508600821.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 1,
     "properties": {
-        "cursorPosition": "21,0",
-        "scrollLine": "0"
+        "cursorPosition": "25,0",
+        "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1637520916,
+    "lastKnownWriteTime": 1637706729,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1637520916373,
+    "last_content_update": 1637706729191,
     "read_only": false,
     "read_only_alternatives": []
 }

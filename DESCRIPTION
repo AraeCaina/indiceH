@@ -17,7 +17,11 @@ Imports:
     dplyr,
     magrittr,
     pkgload,
-    curl
+    curl,
+    httr,
+    visNetwork,
+    tibble,
+    scholar
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1

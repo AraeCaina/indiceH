@@ -19,6 +19,10 @@ usethis::use_package( "rvest" )
 usethis::use_package( "shiny" )
 usethis::use_package( "dplyr" )
 usethis::use_package( "curl" )
+usethis::use_package( "httr" )
+usethis::use_package( "visNetwork" )
+usethis::use_package( "tibble" )
+usethis::use_package( "scholar" )
 usethis::use_pipe()
 ## Add modules ----
 ## Create a module infrastructure in R/

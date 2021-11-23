@@ -11,7 +11,18 @@ app_ui <- function(request) {
     # Your application UI logic 
     fluidPage(
       h1("indiceH"),
-      mod_seleciona_autores_ui("seleciona_autores_ui_1")
+      
+      tabsetPanel(
+        type = 'tabs',
+        tabPanel(
+          'Coautores',
+          br(),
+          mod_seleciona_autores_ui("seleciona_autores_ui_1")
+        ),
+        tabPanel(
+          'Autor'
+        )
+      )
     )
   )
 }
