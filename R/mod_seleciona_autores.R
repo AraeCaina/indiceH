@@ -33,8 +33,15 @@ mod_seleciona_autores_server <- function(id){
 
     observeEvent(input$pesquisar_coautores, {
       
-      coauthor_network <- scholar::get_coauthors(input$id)
+      # id <- Encoding(input$id)
       
+      cat(input$id)
+      
+      id <- paste0(enc2utf8(input$id))
+      
+      cat(id)
+      
+      coauthor_network <- scholar::get_coauthors(id)
       
       
       author <- coauthor_network %>%

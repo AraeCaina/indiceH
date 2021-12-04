@@ -5,8 +5,9 @@ account: zanity
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5175539
-bundleId: 5286652
+bundleId: 5327096
 url: https://zanity.shinyapps.io/indiceH/
-when: 1637707073.50409
+when: 1638624949.10943
+lastSyncTime: 1638624949.10943
 asMultiple: FALSE
 asStatic: FALSE
